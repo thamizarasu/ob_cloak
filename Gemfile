@@ -41,6 +41,8 @@ gem 'httparty', '~> 0.14.0'
 gem 'multi_xml', '~> 0.6.0'
 gem 'mail', '~> 2.6', '>= 2.6.4'
 gem 'mime-types', '~> 3.1'
+gem 'bigdecimal'
+gem 'etc'
 
 # bundle install --frozen --deployment --without=dev
 group :dev do
